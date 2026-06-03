@@ -1,9 +1,9 @@
 OLá! Meu nome é Alice
 ==============================================================================================================================
 
-⤿  Sou estudante de Ciência da Computação, atualmente estou iniciando na programação.
+⤿  Estudante de Ciência da Computaçã.
 
-⤿  Estudando Python e fundamentos e ferramentas da ia
+⤿  Estudando Python e me aprofundando na área de ia e automação.
 
 ⤿ Pronomes: Ela/Dela
  ### Skills
